@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+Research interests: 
+- complex-valued neural networks,
+- machine learning,
+- digital signal processing,
+- atomic functions,
+- wavelets.
+  
 You can reach me on [Telegram @tru17v](https://t.me/tru17v)
 
 Materials for BMSTU:
