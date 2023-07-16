@@ -2,9 +2,9 @@
 You can reach me on [Telegram @tru17v](https://t.me/tru17v)
 
 Materials for BMSTU:
-- [Введение в математические пакеты. Модуль 2. Python](tru17v.github.io/python-bmstu)
-- [Дискретная математика](tru17v.github.io/discrete-math)
-  
+- [Введение в математические пакеты. Модуль 2. Python](https://tru17v.github.io/bmstu-python)
+- [Дискретная математика](https://tru17v.github.io/discrete-math)
+
 Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
