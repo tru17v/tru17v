@@ -9,6 +9,8 @@ Research interests:
   
 You can reach me on [Telegram @tru17v](https://t.me/tru17v)
 
+[Atomic community](https://github.com/Atomic-community?view_as=public)
+
 Materials for BMSTU:
 - [Введение в математические пакеты. Модуль 2. Python](https://tru17v.github.io/bmstu-python)
 - [Дискретная математика](https://tru17v.github.io/discrete-math)
